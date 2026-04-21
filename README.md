@@ -56,7 +56,7 @@ This project is perfect for beginners who want to learn LED matrix control and b
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_32x8_Running_Text.ino)
+[Download Arduino Code](Arduino_32x8_LED_Matrix_Running_Text_MAX7219.ino)
 
 Or open the `.ino` file directly inside this repository.
 
