@@ -91,7 +91,7 @@ This project helps you understand:
 
 Watch the full step-by-step tutorial on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/lcSZJuwPzEA/0.jpg)](https://youtu.be/lcSZJuwPzEA)
 
 In this video, you will see:
 - Components overview  
